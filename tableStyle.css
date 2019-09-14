@@ -1,0 +1,56 @@
+table {
+    width: 100%;
+}
+
+th, td {
+    border-bottom: 1px solid #ddd;
+    text-align: left;
+    padding :15px;
+}
+
+tr:hover {
+    background-color: azure;
+}
+
+label {
+    display: block;
+    padding-top: 8px;
+}
+
+ul {
+    width: 13%;
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: grey;
+}
+
+li {
+    float: left;
+}
+
+li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 16px;
+    text-decoration: none;
+}
+
+li a:hover {
+    background-color: #111111;
+}
+
+header {
+    border-bottom: 4px double deeppink;
+}
+
+nav{
+    padding: 4px;
+}
+
+h6 {
+    font-family: "Algerian";
+    color: darkblue;
+}
